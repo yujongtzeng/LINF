@@ -2,7 +2,7 @@ test_dataset:
   dataset:
     name: image-folder
     args:
-      root_path: /home/user/Warehouse/benchmark/B100/HR
+      root_path: /storage/SSD_4T/yujong/datasets/BSD100/HR/X4
   wrapper:
     name: sr-implicit-downsampled
     args:
